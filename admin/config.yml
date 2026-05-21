@@ -8,7 +8,7 @@
 # Enter your GitHub repo path and branch (defaults to master)
 backend:
   name: github
-  repo: https://github.com/word2web/eleventy-sveltia-cms-starter
+  repo: word2web/eleventy-sveltia-cms-starter
   branch: master
 
 # The folder used to store uploaded images
