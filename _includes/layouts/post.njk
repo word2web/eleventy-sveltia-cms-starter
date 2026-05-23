@@ -16,8 +16,6 @@ section: post
       <time datetime="{{ page.date | machineDate }}">
         {{ page.date | readableDate }}
       </time>
-      by
-      <a href="/authors/{{ author | slug}}">{{ author }}</a>
       {% if tags %}
         in
         {% for tag in tags %}

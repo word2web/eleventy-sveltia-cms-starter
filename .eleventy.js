@@ -13,7 +13,7 @@ module.exports = function(eleventyConfig) {
     
     let metadata = await Image(src, {
       widths: [500, 1000, "auto"],
-      formats: ["avif", "jpeg"],
+      formats: ["avif", "jpeg", "auto"],
       urlPath: "/assets/img/",
       outputDir: "./_site/assets/img/"
     });
@@ -39,22 +39,7 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  // Add support for post authors
-  eleventyConfig.addCollection("myAuthors", collection => {
-    const blogs = collection.getFilteredByGlob("posts/*.md");
-    return blogs.reduce((coll, post) => {
-      const author = post.data.author;
-      if (!author) {
-        return coll;
-      }
-      if (!coll.hasOwnProperty(author)) {
-        coll[author] = [];
-      }
-      coll[author].push(post);
-      return coll;
-    }, {});
-  });
-
+  
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("LLL d yyyy");

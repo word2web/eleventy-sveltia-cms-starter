@@ -8,6 +8,4 @@ eleventyNavigation:
   title: Blog
   order: 1
 ---
-This is the blog index page, listing all posts by all [authors](/authors/).
-
-This text can be edited at: `pages/blog.md`
+This is the blog index page.

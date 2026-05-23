@@ -48,6 +48,38 @@ img {
 	height: auto;
 }
 
+.hero {
+	display: flex;
+	align-items: center;
+	gap: 1.5rem;
+	padding: 2rem 0;
+}
+
+.hero-headshot {
+	width: 7rem;
+	height: 7rem;
+	border-radius: 50%;
+	object-fit: cover;
+	border: 3px solid rgba(46, 81, 237, 0.18);
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+	flex-shrink: 0;
+}
+
+.hero-copy {
+	max-width: 42rem;
+}
+
+@media (max-width: 720px) {
+	.hero {
+		flex-direction: column;
+		text-align: center;
+	}
+
+	.hero-copy {
+		width: 100%;
+	}
+}
+
 body > * {
 	padding: 1em;
 }
