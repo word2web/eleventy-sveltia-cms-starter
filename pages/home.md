@@ -9,4 +9,10 @@ eleventyNavigation:
 layout: layouts/home.njk
 ---
 
-This is a template for building a simple blog website with [Eleventy](https://www.11ty.dev), [Sveltia CMS](https://github.com/sveltia/sveltia-cms), and with automatic deployment to [Netlify](https://www.netlify.com).
+Thanks for stopping by.
+
+I'm Graham Twaddle and since 2017 I've been a contractor specialising in knowledge and information management, corporate communication and other interim roles. 
+
+This site is a home for my [blog](/blog) and for some wee personal projects I've been working on.
+
+Enjoy 😀
