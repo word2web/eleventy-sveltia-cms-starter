@@ -4,10 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title or settings.title }}</title>
   <meta name="description" content="{{ description or eleventyComputed.description or settings.description }}">
-  {% set css %}
-    {% include "assets/css/inline.css" %}
-  {% endset %}
-  <style>{{ css | cssmin | safe }}</style>
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
   {# Uncomment below if you want to include minified inline JS #}
   {# {% set js %}
     {% include "assets/js/inline.js" %}
