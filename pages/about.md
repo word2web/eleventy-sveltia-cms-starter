@@ -21,6 +21,12 @@ During this time I've been lucky enough to work for some big organisations and c
 
 Some of these roles have been via my company - Word2Web Ltd (Company number 13390874) - which is still open for business.
 
-Before becoming a contractor (the best career decision of my life so far) I worked in corporate communications for a large UK charity and the NHS. Before that I worked as a website content editor in the days when updating websites for a living was a novelty...And before that (sshhhhh!) I was a librarian.
+Before becoming a contractor (my best career move to date) I worked in corporate communications for the NHS and a large UK. 
 
-So there have been a few career changes so far and given the pace of change these days there may be more to come. I'm still learning as I go.
+Before that I worked as a website content editor in the days when updating websites for a living was a novelty...
+
+And before that (sshhhhh!) I was a librarian.
+
+I love the challenge and variety of contract working and learning new things.
+
+If you think I might be able to help your organisation, please [get in touch](/contact/)!
