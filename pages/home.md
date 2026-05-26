@@ -13,6 +13,6 @@ Thanks for stopping by.
 
 I'm Graham Twaddle I'm a contractor specialising in knowledge and information management, corporate communication and interim roles. 
 
-This site is a home for my [blog](/blog) and for some wee personal projects I've been working on.
+This site is a home for my [blog](/blog/) and for some wee personal projects I've been working on.
 
 Enjoy 😀
