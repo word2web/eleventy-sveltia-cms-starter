@@ -125,34 +125,26 @@ a[href][data-current="active"] {
 }
 
 /* Posts List */
-main > section {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
-	gap: 1rem;
-	padding: 2rem 0;
-}
-
-main > article {
-	max-width: 40rem;
-	margin-bottom: 2rem;
-}
-
+/* Target the article to remove extra spacing between items */
 article {
-	background-color: var(--secondary);
-	padding: 1rem;
-	border-radius: 0.25em;
+  margin-bottom: 1.5rem; /* Space between different posts */
 }
 
-main > section article {
-	display: grid;
-	grid-template-rows: 1fr auto;
+/* Remove default heading margins and control the spacing */
+article h3 {
+  margin: 0;              /* Removes the default space around the h3 */
+  line-height: 1.2;       /* Keeps the title tight */
+  font-size: 1.25rem;     /* Adjust to your preference */
 }
 
-main > section article img {
-	-o-object-fit: cover;
-	   object-fit: cover;
-	aspect-ratio: 3/2;
+/* Style the date metadata */
+article time small {
+  font-size: 0.85rem;
+  font-weight: 300;
+  letter-spacing: 0.02rem;
 }
+
+
 
 /* Post Tags */
 a[rel="tag"] {
