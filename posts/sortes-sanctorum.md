@@ -1,7 +1,7 @@
 ---
 title: The Sortes Sanctorum
 date: 2024-04-12T00:00:00
-author: John Doe
+author: Graham Twaddle
 summary: The Sortes Sanctorum was a wee experiment with ChatGPT (the free version) to see if I could use it to build a (very) simple app with little or no coding input from me.
 tags:
   - projects
