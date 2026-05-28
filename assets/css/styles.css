@@ -30,6 +30,13 @@ body {
 	background-color: var(--background);
 }
 
+/* Create a max-width container for all your page content */
+.container {
+    max-width: 800px; /* Adjust this to your preferred reading width */
+    margin: 0 auto;   /* This centers the container on the screen */
+    padding: 0 1.5rem; /* Adds breathing room on mobile */
+} 
+
 h1,h2,h3,h4,h5 {
 	line-height: 1.25;
 }
@@ -48,36 +55,41 @@ img {
 	height: auto;
 }
 
+/* General Hero styling */
 .hero {
-	display: flex;
-	align-items: center;
-	gap: 1.5rem;
-	padding: 2rem 0;
-}
-
-.hero-headshot {
-	width: 7rem;
-	height: 7rem;
-	border-radius: 50%;
-	object-fit: cover;
-	border: 3px solid rgba(46, 81, 237, 0.18);
-	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
-	flex-shrink: 0;
+    display: flex;
+    align-items: flex-start; /* Aligns image to top of text */
+    gap: 2rem;
+    padding: 2rem 0;
 }
 
 .hero-copy {
-	max-width: 42rem;
+    display: grid;
+    /* 1fr creates a flexible text column, auto keeps the image width set */
+    grid-template-columns: 1fr auto; 
+    gap: 2rem;
+    align-items: start; /* Aligns both to the top */
 }
 
-@media (max-width: 720px) {
-	.hero {
-		flex-direction: column;
-		text-align: center;
-	}
+.hero-headshot {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 12px;
+    object-fit: cover;
+    margin-top: 0; /* Ensures it aligns with the top of the text */
+}
 
-	.hero-copy {
-		width: 100%;
-	}
+/* Mobile: Stack them */
+@media (max-width: 600px) {
+    .hero-copy {
+        grid-template-columns: 1fr; /* One column on mobile */
+        text-align: center;
+    }
+
+    .hero-headshot {
+        margin: 0 auto; /* Center on mobile */
+        order: -1;      /* Optional: Moves the image to the top on mobile */
+    }
 }
 
 body > * {

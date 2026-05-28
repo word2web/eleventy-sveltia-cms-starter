@@ -3,15 +3,12 @@ layout: layouts/base.njk
 section: home
 permalink: /
 ---
+<h1>Hello!</h1>
 <section class="hero">
-  <img
-    src="/assets/img/g.jpg"
-    alt="Headshot of Graham"
-    class="hero-headshot"
-  />
-
   <div class="hero-copy">
-    <h1>Hello!</h1>
-    {{ layoutContent | safe }}
+    <div class="hero-text">
+      {{ layoutContent | safe }}
+    </div>
+    <img src="/assets/img/g.jpg" alt="Headshot of Graham" class="hero-headshot" />
   </div>
 </section>
