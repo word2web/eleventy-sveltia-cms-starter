@@ -1,10 +1,10 @@
 ---
-title: Hello!
-date: 2016-01-01T00:00:00.000Z
+title: Graham Twaddle - Knowledge and information management consultant, contractor, corporate communications
+date: 2026-05-28
 permalink: /
 eleventyNavigation:
   key: home
-  title: Graham Twaddle - Knowledge and information management specialist, contractor, M365 / SharePoint, interim roles
+  title: Home
   order: 0
 layout: layouts/home.njk
 ---
