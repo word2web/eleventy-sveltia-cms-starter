@@ -5,7 +5,7 @@ author: Jane Doe
 summary: A friend told me about Cursor, which bills itself as "the AI code editor" so I thought I'd give it a go.
 tags:
   - projects, AI, vibe coding
-image: /assets/img/find-my-stop-screenshot.png
+image: assets/img/find-my-stop-screenshot.png
 imageAltText: Screenshot of Find My Stop public transport app
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
