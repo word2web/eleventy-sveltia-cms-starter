@@ -10,7 +10,7 @@ imageAltText: Old photo of a woman using a typewriter while in a swimming pool
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
 
-Try searching “AI” and “white-collar” on Google News to see what I mean: you’ll find plenty of doom-laden headlines. I share this concern. 
+Try searching “AI” and “white-collar” on Google News to see what I mean: you’ll find plenty of doom-laden headlines. I share this concern.
 
 ## Why we should panic
 
@@ -72,7 +72,7 @@ For those of us (oldies) who need to focus on a shorter time window, here’s wh
 - **Stand on the shoulders of giants.** I recently read that the AI company Anthropic had [cut up and scanned millions of books](https://www.msn.com/en-us/money/other/anthropic-cut-up-millions-of-used-books-to-train-claude-and-downloaded-over-7-million-pirated-ones-too-a-judge-said/ar-AA1HnFbI) to train its large language model Claude. In my own house there are maybe about 200 books and I haven’t read all of them, which is a source of frustration. So I am _thrilled_ that I can converse with such an erudite system that has absorbed so much human knowledge and wisdom in a way that I never can. Large language models are standing on the shoulders of giants - just like us. Whatever new challenges that AI will bring, it’s also a wonderful and unprecedented opportunity for those of us who want it. _What new things might we glimpse from all the human wisdom AI has soaked up?_
 - **Get certified**. That rolled up university degree at the back of the sock drawer hasn’t seen a lot of action recently, has it? Rather than focus on degrees (unless our chosen profession really requires it), many of us might be better off looking at micro-credentials and certifications and building a bespoke portfolio education for ourselves.
 
-**Addendum (28 May 2026)**
+### Addendum (28 May 2026)
 
 It's almost a year since I had these thoughts and I largely still hold the same views - although I've decided not to pursue the certification path myself. But I still think it's valid for people who are sure they want to commit to a specific career path at least for a 5 year period. In the workplace I've experimented with a few AI tools over the last year (including a Google Gem I made to assess the retention policy on documents) and while I have found them useful (especially helping me with spreadsheet formulae), I haven't felt they were ready to take over from me! Since originally writing this piece, we have found ourselves in the midst of (an even bigger) energy crisis, so my forecast of an AI "slowdown" may come _sooner_ rather than later.
 

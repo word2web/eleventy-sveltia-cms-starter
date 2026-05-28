@@ -4,7 +4,7 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: home
-  title: Home
+  title: Graham Twaddle - Knowledge and information management specialist, contractor, M365 / SharePoint, interim roles
   order: 0
 layout: layouts/home.njk
 ---

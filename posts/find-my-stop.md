@@ -1,7 +1,7 @@
 ---
 title: Find my Stop!
 date: 2025-07-02T01:00:00
-author: Jane Doe
+author: Graham Twaddle
 summary: A friend told me about Cursor, which bills itself as "the AI code editor" so I thought I'd give it a go.
 tags:
   - projects, AI, vibe coding

@@ -30,7 +30,16 @@ section: post
   </p>
 
   {% if image %}
-    {% generateImage image, (imageAltText or title), "90vw" %}
+{% set safeImage = image %}
+    {# If it HAS a slash, remove it for the shortcode, because the plugin 
+       might be looking for the file path directly from the root #}
+    {% if safeImage.startsWith('/') %}
+      {% set safeImage = safeImage.substring(1) %}
+    {% endif %}
+
+
+    {# Use the safeImage variable in your shortcode #}
+    {% generateImage safeImage, (imageAltText or title), "90vw" %}
   {% endif %}
 
   {{ layoutContent | safe }}

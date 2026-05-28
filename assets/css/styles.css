@@ -215,3 +215,7 @@ button {
     width: 100%;
   }
 }
+
+.footer-centered {
+  text-align: center;
+}
