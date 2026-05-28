@@ -1,26 +1,19 @@
 ---
-title: This is the third example post which has a slightly longer title than the others
-description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
-date: 2022-09-25
+title: Find my Stop!
+date: 2025-07-02T01:00:00
 author: Jane Doe
-summary: How adding this summary to your post can increase customer success by 500%
+summary: A friend told me about Cursor, which bills itself as "the AI code editor" so I thought I'd give it a go.
 tags:
-  - tech
-  - politics
-image: https://images.unsplash.com/photo-1680199994489-22b5f4ccc620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0Mjk5Mjl8MHwxfGFsbHwyM3x8fHx8fDJ8fDE2ODAyNjUxNjA&ixlib=rb-4.0.3&q=80&w=1080
-imageAltText: A ruined jetty in the sea
+  - projects, AI, vibe coding
+image: /assets/img/find-my-stop-screenshot.png
+imageAltText: Screenshot of Find My Stop public transport app
+description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-```
-pre,
-code {
-	line-height: 1.5;
-}
-```
+It's a few years since I built the [Sortes Sanctorum](https://www.word2web.co.uk/sortes-sanctorum) with the help of an early version of ChatGPT so I was interested to see how things have progressed since then.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Another friend suggested an app that locates your nearest pub - unfortunately there didn't seem to be a free API with that information to draw on (business opportunity? ;-). So, instead here's [Find My Stop](https://find-my-stop.vercel.app/) - which uses the UK TransportAPI to list the nearest bus stops or train stations to whatever postcode the user types in.
 
-## Section Header
+Even with GPT-4 doing all of the heavy lifting with the code, it still took me about 3-4 hours in total to get it to this state. I'm sure with a bit more experience and some prior research (like locating the APIs I'm planning to use first!) I can get this time down.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Anyway, an interesting and enjoyable first experience 'vibe coding' with Cursor.
