@@ -5,6 +5,7 @@ author: Graham Twaddle
 summary: The Sortes Sanctorum was a wee experiment with ChatGPT (the free version) to see if I could use it to build a (very) simple app with little or no coding input from me.
 tags:
   - projects
+  - vibe coding
 image: assets/img/sortes.jpeg
 imageAltText: The Sortes Sanctorum
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.

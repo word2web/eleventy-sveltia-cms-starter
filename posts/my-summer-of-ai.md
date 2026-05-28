@@ -5,6 +5,7 @@ author: Graham Twaddle
 summary: Well, that's the summer well and truly over. I work, during the daytime, with the light on again. And I'm ok with that.
 tags:
   - AI
+  - career
 image: /assets/img/danby-toy-statuette-4c984d.jpg
 imageAltText: Cardboard robot on beach
 ---
