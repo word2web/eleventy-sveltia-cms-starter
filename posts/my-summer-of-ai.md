@@ -9,7 +9,7 @@ image: /assets/img/danby-toy-statuette-4c984d.jpg
 imageAltText: Cardboard robot on beach
 ---
 
-It feels a bit ungrateful to admit it, but it's actually me least favourite season.
+It feels a bit ungrateful to admit it, but it's actually my least favourite season.
 
 The pressure _to be having a good time,_ to go somewhere interesting, to have something to harvest at the end of those long, hot days. Maybe its a throwback to the school summer holidays which would begin with high hopes and ambitions for what I would do with all that _free time_ and end with a sense of underachievment.
 
