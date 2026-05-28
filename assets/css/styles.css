@@ -216,6 +216,32 @@ button {
   }
 }
 
-.footer-centered {
-  text-align: center;
+/* Footer */
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Ensures the text and icons are perfectly centered vertically */
+  gap: 1rem;           /* Creates space between name and icons */
+  margin-bottom: 0.5rem;
+}
+
+.social-links {
+  display: flex;       /* Nested flex for the icons */
+  gap: 0.75rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-copy {
+  margin: 0;
+  color: #999;
+}
+
+.footer-credit {
+  font-size: 0.85rem;
+  color: #999;
+  margin: 0 auto; /* Ensures the element itself stays centered */
+  width: fit-content; /* Makes the paragraph only as wide as its text */
 }
