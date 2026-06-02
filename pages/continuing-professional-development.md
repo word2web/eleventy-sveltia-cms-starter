@@ -4,7 +4,7 @@ date: 2026-06-02T23:50:00
 nav_exclude: true
 eleventyNavigation:
   key: learning
-  title: Continuing professional development
+  title: Learning
   order: 999
 ---
 
