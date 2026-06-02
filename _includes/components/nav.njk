@@ -2,7 +2,7 @@
   {% set navPages = collections.all | eleventyNavigation %}
   <ul>
     {%- for entry in navPages %}
-      {# We look for nav_exclude inside the entry object directly now #}
+      {# entry.nav_exclude will now correctly see the value inside the block #}
       {% if not entry.nav_exclude %}
         <li>
           <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="active"{% endif %}>
