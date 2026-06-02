@@ -41,10 +41,11 @@ collections:
         name: "eleventyNavigation"
         widget: "object"
         fields:
-          - { label: "Key", name: "key", widget: "string", hint: "A unique string for your navigation item, typically the page slug." }
-          - { label: "Title", name: "title", widget: "string", hint: "The visible title of the navigation item." }
-          - { label: "Order", name: "order", widget: "number", default: 999, hint: "Set a number between 0 and 999 to set the display order of your navigation item." }
-      - { label: "Body", name: "body", widget: "markdown", hint: "Plain text, Markdown, and HTML formatting is supported." }
+          - { label: "Key", name: "key", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Order", name: "order", widget: "number", default: 999 }
+          # Move the exclude field here, inside the navigation object
+          - { label: "Exclude from Navigation", name: "nav_exclude", widget: "boolean", default: false }
   - name: "authors"
     label: "Authors"
     label_singular: "Author"
