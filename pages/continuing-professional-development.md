@@ -1,7 +1,7 @@
 ---
 title: Continuing professional development
 date: 2026-06-02T23:50:00
-nav_exclude: true
+nav_exclude: false
 eleventyNavigation:
   key: learning
   title: Learning
