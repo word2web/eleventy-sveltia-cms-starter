@@ -6,6 +6,7 @@ eleventyNavigation:
   key: learning
   title: Learning
   order: 999
+  nav_exclude: true
 ---
 
 This page logs the online courses I've most recently completed, along with my profiles on platforms like Microsoft Learning and Salesforce Trailhead.
