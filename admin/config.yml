@@ -38,7 +38,7 @@ collections:
             #max_file_size: 2048000 # maximum image file size in bytes
       - { label: "Image Alt Text", name: "imageAltText", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages"
+- name: "pages"
     label: "Pages"
     label_singular: "Page"
     folder: "pages"
@@ -47,6 +47,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      # ADD THIS FIELD HERE
+      - { label: "Exclude from Navigation", name: "nav_exclude", widget: "boolean", default: false }
       - { label: "Permalink", name: "permalink", widget: "hidden" }
       - label: "Navigation"
         name: "eleventyNavigation"
