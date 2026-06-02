@@ -44,7 +44,6 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 999 }
-          # Move this line INTO the fields list of the navigation object
           - { label: "Exclude from Navigation", name: "nav_exclude", widget: "boolean", default: false }
   - name: "authors"
     label: "Authors"
