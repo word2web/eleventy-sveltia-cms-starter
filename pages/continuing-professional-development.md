@@ -1,11 +1,12 @@
 ---
-title: Continuing professional development
+title: Learning
 date: 2026-06-02T23:50:00
 nav_exclude: true
 eleventyNavigation:
   key: learning
   title: Learning
   order: 999
+  nav_exclude: true
 ---
 
 This page logs the online courses I've most recently completed, along with my profiles on platforms like Microsoft Learning and Salesforce Trailhead.
