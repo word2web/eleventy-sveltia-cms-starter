@@ -74,21 +74,31 @@ img {
 .hero-headshot {
     width: 10rem;
     height: 10rem;
-    border-radius: 12px;
     object-fit: cover;
-    margin-top: 0; /* Ensures it aligns with the top of the text */
+    /* Modern soft-square styling */
+    border-radius: 16px;
+    border: 4px solid #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    /* Smooth interaction */
+    transition: transform 0.2s ease;
+    margin-top: 0;
+}
+
+.hero-headshot:hover {
+    transform: scale(1.02);
 }
 
 /* Mobile: Stack them */
 @media (max-width: 600px) {
     .hero-copy {
-        grid-template-columns: 1fr; /* One column on mobile */
+        grid-template-columns: 1fr;
         text-align: center;
+        gap: 1.5rem; /* Slightly tighter gap on mobile */
     }
 
     .hero-headshot {
-        margin: 0 auto; /* Center on mobile */
-        order: -1;      /* Optional: Moves the image to the top on mobile */
+        margin: 0 auto;
+        order: -1;
     }
 }
 
