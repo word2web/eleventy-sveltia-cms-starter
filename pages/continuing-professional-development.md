@@ -1,5 +1,5 @@
 ---
-title: Continuing professional development
+title: Learning
 date: 2026-06-02T23:50:00
 nav_exclude: true
 eleventyNavigation:
