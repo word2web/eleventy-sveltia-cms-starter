@@ -8,4 +8,4 @@ eleventyNavigation:
   title: Blog
   order: 1
 ---
-This is the blog index page.
+Some occasional thoughts...
