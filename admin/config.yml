@@ -25,7 +25,7 @@ collections:
         widget: "image"
         required: false
         hint: "Upload an image for this post. You can also use an image URL."
-      - { label: "Image Alt Text", name: "imageAltText", widget: "string" }
+      - { label: "Image Alt Text", name: "imageAltText", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
