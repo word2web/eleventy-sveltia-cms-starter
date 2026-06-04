@@ -72,14 +72,12 @@ img {
 }
 
 .hero-headshot {
-    width: 10rem;
-    height: 10rem;
+    width: 10rem !important;
+    height: 10rem !important;
     object-fit: cover;
-    /* Modern soft-square styling */
-    border-radius: 16px;
+    border-radius: 16px !important; /* Forces the squircle */
     border: 4px solid #ffffff;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    /* Smooth interaction */
     transition: transform 0.2s ease;
     margin-top: 0;
 }
