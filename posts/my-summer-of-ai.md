@@ -16,11 +16,11 @@ The pressure _to be having a good time,_ to go somewhere interesting, to have 
 
 This summer I found myself "between contracts" and fretting about how AI was going to render irrelevant any skills and knowledge I've managed to scrape together in almost 30 years in the workplace.
 
-My [initial forays](https://www.word2web.co.uk/obligatory-post-about-ai/) into using large language models such as Gemini, ChatGPT and Grok had left me feeling that the game was up. "I am _awestruck_ by AI", I gushed.
+My [initial forays](/obligatory-post-about-ai/) into using large language models such as Gemini, ChatGPT and Grok had left me feeling that the game was up. "I am _awestruck_ by AI", I gushed.
 
 Later on I opined: "AI is a bit scary. And impressive. Scarily impressive. I'll put it bluntly: any task that can be done online is likely to be one that AI will eventually be better at than humans."
 
-By July I had [tempered my take on AI somewhat](https://www.word2web.co.uk/staying-relevant-in-the-age-of-ai/) and had conceded that its progress would at some point "slow down" but I still overestimated its abilities, most notably in coding. A summer of playing around with vibe coding, during which time I produced such masterpieces as [Find my stop](https://find-my-stop.vercel.app/) and [Radius Roulette](https://radius-roulette.vercel.app/), has persuaded me that good human programmers are going to be OK.
+By July I had [tempered my take on AI somewhat](/staying-relevant-in-the-age-of-ai/) and had conceded that its progress would at some point "slow down" but I still overestimated its abilities, most notably in coding. A summer of playing around with vibe coding, during which time I produced such masterpieces as [Find my stop](https://find-my-stop.vercel.app/) and [Radius Roulette](https://radius-roulette.vercel.app/), has persuaded me that good human programmers are going to be OK.
 
 It would take several months more of exploring AI, talking philosophy with Grok and career development with Gemini, before I came to the conclusion - and discovered that I am not the only one to have done so - that AI, in its current offering is greatly overhyped and almost definitely a financial bubble that is waiting to pop. The longer it takes to pop, the more damage that will be done to the economy when it does.
 
