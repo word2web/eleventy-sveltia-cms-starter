@@ -46,7 +46,7 @@ One of the reasons I am writing this blog post the old-fashioned way is that I d
 
 It's not just about holding on to existing skills; we need to be committed to developing new ones.
 
-The answer to “what new skills do I need to learn to remain relevant in the age of AI” is going to be different for everyone. So I don't think the talk about "learning to plumb" or pursuing other types of 'blue-collar' work is particularly helpful. It will lead to bandwagons and I'm not even sure it's helpful talking about white-collar' or 'blue-collar work' any more. We're not living in 1950s America.
+The answer to “what new skills do I need to learn to remain relevant in the age of AI” is going to be different for everyone. So I don't think the talk about "learning to plumb" or pursuing other types of 'blue-collar' work is particularly helpful. It will lead to bandwagons and I'm not even talking about white-collar' or 'blue-collar work' makes much sense these days. We're not living in 1950s America.
 
 Here's the thing: manual work is the original digital work. It's Digital 1.0. Even our word ‘digital’ comes from the Latin word for ‘finger’. What if the "killer app" that gave _homo sapiens_ our edge is not so much our brain size but our dexterity?
 
