@@ -11,7 +11,13 @@ nav_exclude: true
 
 This page logs the online courses I've most recently completed, along with my profiles on platforms like Microsoft Learning and Salesforce Trailhead.
 
-### Short courses
+| Course                                                         | Subject               | Certificate                                                               |
+| -------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------- |
+| Government Commercial Function: Contract Management Foundation | Contract Management   | [View Certificate](/uploads/contract-management-foundation.pdf)           |
+| Cisco Networking Basics                                        | Networking            | [View Certificate](/uploads/NetworkingBasicsUpdate20250822-32-8p8git.pdf) |
+| Cisco Introduction to Cybersecurity                            | Cybersecurity         | [View Certificate](/uploads/I2CSUpdate20250730-31-j9wtt6.pdf)             |
+| Elements of AI: Introduction to AI                             | AI                    | [View Certificate](/uploads/certificate-elements-of-ai.png)               |
+
 
 I am a fan of both Microsoft Learn and Salesforce Trailhead - both great, free ways to pick up new skills. Whenever I have time, I like to dip in and get new badges.
 
