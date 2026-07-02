@@ -13,10 +13,10 @@ This page logs the online courses I've most recently completed, along with my pr
 
 | Course                                                         | Subject               | Certificate                                                               |
 | -------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------- |
-| Government Commercial Function: Contract Management Foundation | Contract Management   | [View Certificate](/img/certificates/contract-management-foundation.pdf)           |
-| Cisco Networking Basics                                        | Networking            | [View Certificate](/img/certificates/NetworkingBasicsUpdate20250822-32-8p8git.pdf) |
-| Cisco Introduction to Cybersecurity                            | Cybersecurity         | [View Certificate](/img/certificates/I2CSUpdate20250730-31-j9wtt6.pdf)             |
-| Elements of AI: Introduction to AI                             | AI                    | [View Certificate](/img/certificates/certificate-elements-of-ai.png)               |
+| Government Commercial Function: Contract Management Foundation | Contract Management   | [View Certificate](assets/img/certificates/contract-management-foundation.pdf)           |
+| Cisco Networking Basics                                        | Networking            | [View Certificate](assets/img/certificates/NetworkingBasicsUpdate20250822-32-8p8git.pdf) |
+| Cisco Introduction to Cybersecurity                            | Cybersecurity         | [View Certificate](assets/img/certificates/I2CSUpdate20250730-31-j9wtt6.pdf)             |
+| Elements of AI: Introduction to AI                             | AI                    | [View Certificate](assets/img/certificates/certificate-elements-of-ai.png)               |
 
 ## Microsoft Learn
 
