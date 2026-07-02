@@ -23,6 +23,6 @@ Some of these roles have been via my company - Word2Web Ltd ([Company number 133
 
 Before becoming a contractor (my best career move to date) I worked in corporate communications for the NHS and a large UK charity.  Before that I worked as a website content editor in the days when updating websites for a living was a novelty... And before that (_sshhhhh!_) I was a librarian.
 
-I love the challenge and variety each new contract brings and am always [learning](/learning/) new things.
+I love the challenge and variety each new contract brings and am always [learning](/pages/continuing-professional-development/) new things.
 
 If you think I might be able to help your organisation, please [get in touch](/contact/)!
