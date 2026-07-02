@@ -1,5 +1,5 @@
 ---
-title: Graham Twaddle - Knowledge and information management consultant, contractor, corporate communications
+title: Graham Twaddle - consultant, contractor, interim manager, strategic communications, knowledge management, IT change
 date: 2026-05-28
 permalink: /
 eleventyNavigation:
