@@ -11,7 +11,7 @@ imageAltText: ''
 
 The idea is that we’ve become too dependent on big American companies like Microsoft and Google, and that European governments need to bring their IT infrastructure closer to home.
 
-Germany now has a dedicated team inside its digital ministry for the task. France is actively planning to migrate government machines to Linux.
+Germany now has a dedicated team inside its digital ministry for the task. France is actively planning to [migrate government machines to Linux](https://blog.elest.io/euro-office-vs-onlyoffice-the-fork-thats-splitting-the-self-hosted-office-world/).
 
 My main home computer is Linux and I’ve been a fan of open source for over a decade. So I’m genuinely interested in the alternatives, especially on the days when Microsoft 365 and Google’s various shortcomings drive me up the wall. (If I hear one more time that a basic Microsoft 365 task requires “a simple PowerShell script,” I will scream.)
 
