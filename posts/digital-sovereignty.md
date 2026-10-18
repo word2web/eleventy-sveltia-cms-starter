@@ -5,7 +5,7 @@ author: Graham Twaddle
 summary: There’s a fair bit of chat, mainly in European circles, about “digital sovereignty.”
 tags:
   - digital sovereignty, Europe, Microsoft, Google, NextCloud, OnlyOffice
-image: ''
+image: /assets/img/canute.jpg
 imageAltText: ''
 ---
 
