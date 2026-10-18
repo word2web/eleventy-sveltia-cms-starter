@@ -2,14 +2,12 @@
 title: Digital sovereignty
 date: 2026-10-18T19:01:00
 author: Graham Twaddle
-summary: European governments are pushing “digital sovereignty” to reduce reliance on US tech giants like Microsoft and Google. While open-source alternatives such as Euro-Office show promise, true independence remains elusive without European hardware and operating systems. Meanwhile, the same governments appear far less committed to protecting ordinary citizens’ digital privacy.
+summary: There’s a fair bit of chat, mainly in European circles, about “digital sovereignty.”
 tags:
   - digital sovereignty, Europe, Microsoft, Google, NextCloud, OnlyOffice
 image: ''
 imageAltText: ''
 ---
-
-There’s a fair bit of chat, mainly in European circles, about “digital sovereignty.”
 
 The idea is that we’ve become too dependent on big American companies like Microsoft and Google, and that European governments need to bring their IT infrastructure closer to home.
 
